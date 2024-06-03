@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tinelix@mail.ru",
+                "Name": "Dmitry Tretyakov"
+            }
+        ],
+        "Id": "TinelixWP",
+        "License": "CC-BY-4.0",
+        "Name": "TinelixWallpapers"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#dd6700"
+}

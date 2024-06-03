@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Tinelix Wallpapers
+Comment=Custom desktop wallpapers provided by Tinelix
+
+X-KDE-PluginInfo-Author=Dmitry Tretyakov
+X-KDE-PluginInfo-Email=tinelix@mail.ru
+X-KDE-PluginInfo-Name=TinelixWallpapers
+X-KDE-PluginInfo-Version=1.0.1
+X-KDE-PluginInfo-Website=https://github.com/tinelix/desktop-wallpapers
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CC-BY
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=Ice shards
+defaultFileSuffix=.jpg
+defaultWidth=2592
+defaultHeight=1994
+
+[Branding]
+homepage=https://tinelix.ru
